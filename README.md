@@ -1,3 +1,10 @@
+Python-template
+Mini-Project 1
+
+Fall 2023 IDS 706 Data Engineering
+
+This includes a Makefile, requirements.txt, .devcontainer, .gitignore, GitHubActions, and Readme.
+
 [![CI](https://github.com/nogibjj/python-template/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/python-template/actions/workflows/cicd.yml)
 ## Template for Python projects 
 
